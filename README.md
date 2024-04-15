@@ -8,9 +8,5 @@ The popup will show the percentage match of the signatures.
 The signatures are compared using structural_similarity in skimage.metrics package.
 
 
-## Preview
-<!-- ![Preview](assets/Signature.gif) -->
-
-https://user-images.githubusercontent.com/51584907/140640842-b7cd3fe2-493a-469b-b121-5b9f02707bcf.mp4
 
 
